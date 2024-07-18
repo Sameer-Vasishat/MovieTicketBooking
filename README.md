@@ -11,7 +11,8 @@ Requirements
 
 
 Use Case
-![image](https://github.com/user-attachments/assets/9c2a8f01-8f3a-4473-81cc-c8c23882d022)
+![image](https://github.com/user-attachments/assets/4b94c854-9b11-4959-9007-9420b2fa7ebb)
+
 
 
 Data Model
