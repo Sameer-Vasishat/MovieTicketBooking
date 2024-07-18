@@ -3,9 +3,7 @@
 Requirements
 
 Enable theater partners to onboard their theatres over this platform 
-
 Enable end customers to search
-
 Enable end customers to book tickets in advance
 
 
@@ -20,3 +18,8 @@ Use Case
 Data Model
 
 ![image](https://github.com/user-attachments/assets/330c81f0-68ef-4c00-9dcd-b02a97f59ea7)
+
+
+Search Strategy
+
+![image](https://github.com/user-attachments/assets/4e7cfe30-e486-4bda-9e6d-befaa7b406d8)
