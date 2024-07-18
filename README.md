@@ -3,7 +3,9 @@
 Requirements
 
 Enable theater partners to onboard their theatres over this platform 
+
 Enable end customers to search
+
 Enable end customers to book tickets in advance
 
 
