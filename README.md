@@ -24,3 +24,9 @@ Search Functionality (Search is based on search Strategy)
 byCity or byName or Default(all movies)
 
 ![image](https://github.com/user-attachments/assets/4e7cfe30-e486-4bda-9e6d-befaa7b406d8)
+
+
+
+Booking tickets(Using Decorator pattern to calcuate prices)
+
+![image](https://github.com/user-attachments/assets/ca79a8b4-cc70-4e8d-9426-e3f33437bcae)
